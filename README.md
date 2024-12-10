@@ -2,9 +2,9 @@
 Trabalhos do Grupo 2.
 
 # Como rodar Trabalho 1
-- Crie um novo notebook no [Google Colab](https://colab.research.google.com/#create=true) e importe o código presente em `code/trab1.ipynb`.
-- Importe, também, o arquivo `data/hsb2f.csv` para garantir que o código encontre o arquivo dataset para usar.
-- Crie a pasta `reports/` para que o relatório seja gerado corretamente.
+- Crie um novo notebook no [Google Colab](https://colab.research.google.com/#create=true) e importe o código presente em `trabalho-1/code/trab1.ipynb`.
+- Importe, também, o arquivo `trabalho-1/data/hsb2f.csv` para garantir que o código encontre o arquivo dataset para usar.
+- Crie a pasta `trabalho-1/reports/` para que o relatório seja gerado corretamente.
 
 **OBS.:** Caso for importar todas as pastas de uma vez, certifique-se que os arquivos estejam corretamente alocados dentro delas.
 
