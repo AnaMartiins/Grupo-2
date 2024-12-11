@@ -11,6 +11,9 @@ Trabalhos do Grupo 2.
 - Por fim, clique no ícone de "play" para que o código gere o relatório!
 
 # Como rodar Trabalho Final
+
+### Acesse nosso artigo em `trabalho-final/docs/artigo_final.pdf`!
+
 - Crie um novo notebook no [Google Colab](https://colab.research.google.com/#create=true) e importe o código presente em `trabalho-final/code/trabalho_final_grupo2.ipynb`.
 - Importe, também, o arquivo `trabalho-final/data/questionario.xlsx` dentro de uma pasta chamada `dataset/` dentro do Colab para garantir que o código encontre o arquivo dataset para usar.
 - Crie a pasta `reports/` para que o relatório seja gerado corretamente dentro dessa pasta no ambiente do Google Colab
